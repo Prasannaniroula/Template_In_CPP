@@ -1,0 +1,12 @@
+First we should know about Generics before learning template.
+Generics:
+        It is a idea of allowing datatypes such as integer,string to be a parameter to methods,classes and interfaces.
+        means we can leave the datatypes empty to initialize later which is the concept of generics.
+Templates:
+        A template is tool in c++ that allows functions and classes to operate with generic types.
+          means it is an advantages of c++ in which we can define the datatypes later determining it from the input data in the functions and classes with the use of template.
+
+Syntax:
+  template<typename identifier> return_type fun_name(parameters){
+body;
+}
